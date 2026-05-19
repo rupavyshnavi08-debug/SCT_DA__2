@@ -1,0 +1,201 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer Name,Segment,Country,City,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+ORD-1001,2024-01-13,2024-01-19,Standard Class,Margaret Brown,Home Office,India,Patrickmouth,East,Technology,Laptop,Laptop Model 704,289.53,4,0.04,20.41
+ORD-1002,2024-01-16,2024-01-17,Standard Class,Amy Lee,Home Office,India,Penaport,Central,Office Supplies,Paper,Paper Model 325,234.27,9,0.18,38.01
+ORD-1003,2024-01-04,2024-01-11,Second Class,Kelly Nelson,Consumer,India,Loriberg,East,Office Supplies,Pen,Pen Model 489,809.7,7,0.1,65.66
+ORD-1004,2024-06-25,2024-06-30,Second Class,Benjamin Jimenez,Consumer,India,Nathanchester,South,Furniture,Bookcase,Bookcase Model 949,279.23,1,0.22,43.91
+ORD-1005,2024-10-22,2024-10-24,First Class,Stephanie Green,Consumer,India,North Cynthia,East,Technology,Printer,Printer Model 489,710.48,1,0.2,145.37
+ORD-1006,2024-11-21,2024-11-28,Standard Class,Lisa Owen,Home Office,India,Holtbury,East,Office Supplies,Storage,Storage Model 723,377.54,6,0.11,69.48
+ORD-1007,2024-09-30,2024-10-06,Standard Class,Terry Parks,Home Office,India,North Sarahstad,West,Technology,Phone,Phone Model 801,259.91,8,0.11,64.43
+ORD-1008,2024-04-27,2024-05-04,Standard Class,Shane Serrano,Home Office,India,Nicholshaven,South,Office Supplies,Paper,Paper Model 317,51.46,6,0.12,3.25
+ORD-1009,2024-07-21,2024-07-27,Standard Class,Edwin Martin,Corporate,India,Michaelchester,Central,Technology,Monitor,Monitor Model 697,469.67,5,0.04,93.46
+ORD-1010,2024-04-22,2024-04-24,First Class,Victoria Padilla,Home Office,India,Lisamouth,West,Office Supplies,Pen,Pen Model 911,519.34,2,0.23,115.41
+ORD-1011,2024-11-01,2024-11-02,Standard Class,Suzanne Rodriguez,Consumer,India,West Lisa,East,Technology,Monitor,Monitor Model 798,397.07,10,0.3,61.87
+ORD-1012,2024-11-24,2024-11-27,Standard Class,Dylan Grimes,Home Office,India,North Elizabeth,South,Technology,Printer,Printer Model 612,129.32,7,0.05,6.55
+ORD-1013,2024-11-16,2024-11-19,First Class,Megan Farley,Home Office,India,Port Julieville,East,Furniture,Chair,Chair Model 713,844.84,9,0.18,68.07
+ORD-1014,2024-01-10,2024-01-11,Standard Class,Michelle Barnes,Consumer,India,Kirkstad,East,Office Supplies,Storage,Storage Model 849,930.52,5,0.07,91.35
+ORD-1015,2024-09-29,2024-10-06,Standard Class,Thomas Castro,Home Office,India,Lake Katherine,Central,Office Supplies,Paper,Paper Model 316,143.25,8,0.28,11.89
+ORD-1016,2024-12-31,2025-01-03,First Class,Jerry Gomez,Consumer,India,South Jodistad,West,Technology,Phone,Phone Model 165,411.01,6,0.13,63.1
+ORD-1017,2024-10-28,2024-11-02,First Class,Alison Mills,Consumer,India,East Jenniferfurt,East,Office Supplies,Paper,Paper Model 132,245.51,4,0.0,47.03
+ORD-1018,2024-09-20,2024-09-22,Standard Class,Justin Williams,Home Office,India,Calebtown,Central,Office Supplies,Paper,Paper Model 348,292.91,8,0.06,22.4
+ORD-1019,2024-04-07,2024-04-08,Standard Class,William Cox,Consumer,India,Drewborough,East,Office Supplies,Storage,Storage Model 162,114.99,7,0.11,15.2
+ORD-1020,2024-02-25,2024-02-27,Second Class,Tyler Mitchell,Corporate,India,Elliottbury,West,Office Supplies,Pen,Pen Model 995,207.76,9,0.13,27.92
+ORD-1021,2024-10-08,2024-10-09,First Class,Eric Allen,Consumer,India,Port Gregory,Central,Furniture,Sofa,Sofa Model 597,69.58,9,0.25,16.96
+ORD-1022,2024-07-24,2024-07-25,Second Class,Cory Bryant,Corporate,India,Tuckermouth,Central,Office Supplies,Binder,Binder Model 813,181.34,1,0.3,18.69
+ORD-1023,2024-03-20,2024-03-22,Standard Class,Toni Williams,Corporate,India,West Andrewland,East,Technology,Monitor,Monitor Model 151,310.77,1,0.17,49.24
+ORD-1024,2024-09-14,2024-09-21,First Class,Lauren Moore,Consumer,India,Lake Sueside,East,Technology,Monitor,Monitor Model 791,540.5,1,0.29,35.69
+ORD-1025,2024-03-02,2024-03-07,Standard Class,Casey Pham,Home Office,India,Melissaport,South,Furniture,Sofa,Sofa Model 367,261.29,10,0.01,17.35
+ORD-1026,2024-05-02,2024-05-05,First Class,Ryan Proctor,Consumer,India,New Aprilberg,Central,Furniture,Bookcase,Bookcase Model 736,407.87,5,0.14,96.18
+ORD-1027,2024-02-07,2024-02-12,First Class,Christopher Moore,Consumer,India,Brandiport,South,Technology,Laptop,Laptop Model 391,228.89,5,0.04,27.42
+ORD-1028,2024-10-05,2024-10-11,Second Class,Desiree Meza,Home Office,India,Nicoleborough,East,Furniture,Sofa,Sofa Model 999,316.47,9,0.0,67.54
+ORD-1029,2024-02-29,2024-03-01,Standard Class,Rodney Bennett,Corporate,India,Lake Katelyn,West,Furniture,Bookcase,Bookcase Model 803,747.57,3,0.08,127.81
+ORD-1030,2024-09-15,2024-09-19,Second Class,Kenneth Petty,Consumer,India,South Phillipton,East,Technology,Printer,Printer Model 441,266.1,1,0.03,35.85
+ORD-1031,2024-03-23,2024-03-29,Standard Class,Linda Parker,Consumer,India,South Denise,East,Furniture,Bookcase,Bookcase Model 954,453.0,7,0.17,32.79
+ORD-1032,2024-08-08,2024-08-10,First Class,James Blackwell,Corporate,India,New Kelly,West,Office Supplies,Binder,Binder Model 798,60.99,6,0.27,12.76
+ORD-1033,2024-06-30,2024-07-07,First Class,Rebecca Armstrong,Consumer,India,New Stephanieside,West,Furniture,Chair,Chair Model 522,568.69,7,0.29,113.68
+ORD-1034,2024-06-19,2024-06-26,First Class,Elizabeth Cline,Corporate,India,Pollardmouth,East,Furniture,Table,Table Model 979,932.2,4,0.08,193.41
+ORD-1035,2024-04-12,2024-04-19,First Class,Desiree Mcdaniel,Consumer,India,Stephanieton,East,Office Supplies,Binder,Binder Model 775,920.08,6,0.09,192.36
+ORD-1036,2024-06-17,2024-06-20,Standard Class,Melanie Wolfe,Home Office,India,North Peter,South,Furniture,Sofa,Sofa Model 128,867.07,5,0.11,131.69
+ORD-1037,2024-04-01,2024-04-06,Second Class,Lydia Burton,Home Office,India,Port Douglas,South,Furniture,Bookcase,Bookcase Model 546,963.28,5,0.01,163.1
+ORD-1038,2024-07-16,2024-07-21,Standard Class,Madison Schneider,Home Office,India,West Gwendolyn,West,Technology,Laptop,Laptop Model 472,206.28,1,0.21,10.38
+ORD-1039,2024-12-06,2024-12-09,Second Class,Alexander Khan,Home Office,India,Williamhaven,Central,Office Supplies,Paper,Paper Model 434,630.69,2,0.22,69.42
+ORD-1040,2024-10-10,2024-10-12,Standard Class,Casey Conley,Home Office,India,Adamsview,South,Office Supplies,Pen,Pen Model 515,208.0,7,0.2,47.96
+ORD-1041,2024-06-04,2024-06-07,Second Class,Catherine Webster,Corporate,India,West Robert,West,Technology,Laptop,Laptop Model 623,225.98,10,0.18,25.86
+ORD-1042,2024-12-03,2024-12-04,First Class,Kathryn Werner,Home Office,India,Amberstad,South,Office Supplies,Binder,Binder Model 330,298.11,10,0.1,63.7
+ORD-1043,2024-01-13,2024-01-14,Second Class,Julian Pierce,Corporate,India,Leechester,West,Furniture,Table,Table Model 835,259.95,8,0.18,52.95
+ORD-1044,2024-09-10,2024-09-14,First Class,Sandra Brown,Corporate,India,Davismouth,West,Technology,Monitor,Monitor Model 280,259.1,1,0.27,57.54
+ORD-1045,2024-01-26,2024-01-31,Standard Class,Diane Drake,Home Office,India,West Darin,South,Technology,Monitor,Monitor Model 873,264.21,2,0.14,55.56
+ORD-1046,2024-10-07,2024-10-11,Standard Class,William Gonzales,Corporate,India,Griffithborough,Central,Office Supplies,Storage,Storage Model 741,899.26,8,0.14,180.17
+ORD-1047,2024-08-13,2024-08-14,Standard Class,Pamela Payne,Consumer,India,West Charlesview,West,Furniture,Bookcase,Bookcase Model 254,719.27,4,0.08,81.96
+ORD-1048,2024-12-21,2024-12-23,Second Class,Christine Vasquez,Corporate,India,East Nicholasburgh,East,Furniture,Sofa,Sofa Model 311,712.29,2,0.12,82.75
+ORD-1049,2024-10-26,2024-11-01,Second Class,Caitlin Smith,Corporate,India,Coxborough,Central,Office Supplies,Storage,Storage Model 973,39.14,10,0.11,2.0
+ORD-1050,2024-09-06,2024-09-08,Standard Class,Robert Martin,Corporate,India,East Steven,West,Office Supplies,Binder,Binder Model 960,287.48,8,0.01,33.7
+ORD-1051,2024-11-14,2024-11-19,First Class,Kevin Williams,Home Office,India,East Robert,Central,Office Supplies,Binder,Binder Model 238,46.43,7,0.18,8.48
+ORD-1052,2024-01-26,2024-01-29,Second Class,Daniel Cooley,Corporate,India,Port Pamela,Central,Office Supplies,Binder,Binder Model 358,391.52,4,0.14,46.0
+ORD-1053,2024-01-10,2024-01-16,Standard Class,David Mitchell,Consumer,India,Port Kimberly,East,Furniture,Sofa,Sofa Model 353,548.63,6,0.07,34.96
+ORD-1054,2024-11-14,2024-11-16,First Class,Joseph Sanchez DVM,Corporate,India,Lake Anthony,South,Furniture,Chair,Chair Model 885,253.77,8,0.2,41.31
+ORD-1055,2024-11-06,2024-11-11,Second Class,Christopher Allen,Consumer,India,Kristyport,East,Office Supplies,Binder,Binder Model 419,964.46,2,0.23,79.81
+ORD-1056,2024-07-22,2024-07-28,First Class,Erin Carrillo,Home Office,India,Ruizshire,South,Technology,Monitor,Monitor Model 970,214.36,10,0.21,37.61
+ORD-1057,2024-10-16,2024-10-23,Standard Class,Larry Ritter,Home Office,India,Shannonchester,South,Technology,Laptop,Laptop Model 112,60.25,9,0.13,7.48
+ORD-1058,2024-02-24,2024-02-28,Standard Class,Nicole Dominguez,Home Office,India,Cynthiaside,South,Office Supplies,Storage,Storage Model 730,961.57,8,0.21,131.83
+ORD-1059,2024-08-26,2024-08-30,First Class,Keith White,Corporate,India,New Stephanie,Central,Technology,Monitor,Monitor Model 349,829.22,10,0.08,182.71
+ORD-1060,2024-06-21,2024-06-22,Second Class,Jorge Morgan,Corporate,India,Stevenland,South,Office Supplies,Storage,Storage Model 710,504.42,6,0.05,46.62
+ORD-1061,2024-10-11,2024-10-12,Second Class,Carolyn Adkins,Home Office,India,Rogerside,West,Technology,Printer,Printer Model 807,526.29,4,0.03,102.11
+ORD-1062,2024-08-17,2024-08-24,Second Class,Michael Nguyen,Home Office,India,Port Adam,South,Office Supplies,Storage,Storage Model 584,36.9,5,0.07,6.95
+ORD-1063,2024-08-05,2024-08-11,Second Class,Marcus Gonzalez,Consumer,India,North Kevinport,East,Technology,Printer,Printer Model 838,559.38,6,0.21,58.28
+ORD-1064,2024-03-02,2024-03-08,Second Class,Bailey Christensen,Home Office,India,Whiteville,South,Furniture,Bookcase,Bookcase Model 202,545.15,3,0.06,107.79
+ORD-1065,2024-04-26,2024-04-29,First Class,Nancy Hernandez,Consumer,India,Alexanderville,South,Furniture,Bookcase,Bookcase Model 814,195.85,1,0.21,14.75
+ORD-1066,2024-02-22,2024-02-29,First Class,Brett Salinas,Consumer,India,Port Patricia,South,Furniture,Sofa,Sofa Model 982,32.02,5,0.14,4.42
+ORD-1067,2024-02-03,2024-02-07,First Class,Brian Gomez,Home Office,India,Brandtton,South,Office Supplies,Paper,Paper Model 187,501.91,10,0.19,30.48
+ORD-1068,2024-10-12,2024-10-19,Standard Class,Ashley Becker,Corporate,India,Smithborough,Central,Furniture,Chair,Chair Model 553,427.85,10,0.24,40.7
+ORD-1069,2024-06-05,2024-06-10,First Class,William Richardson,Home Office,India,Nataliechester,West,Office Supplies,Storage,Storage Model 370,628.61,10,0.29,43.91
+ORD-1070,2024-03-21,2024-03-23,Standard Class,Michael Sanchez,Home Office,India,West Alex,Central,Technology,Laptop,Laptop Model 398,190.34,2,0.05,25.07
+ORD-1071,2024-05-27,2024-06-02,Second Class,Jack Rodriguez,Home Office,India,Millertown,West,Furniture,Table,Table Model 535,297.06,8,0.02,28.72
+ORD-1072,2024-11-27,2024-11-29,Second Class,Gwendolyn Friedman,Home Office,India,Lake Karenmouth,South,Furniture,Table,Table Model 549,910.24,3,0.02,75.72
+ORD-1073,2024-12-18,2024-12-21,First Class,Ricardo Rios,Home Office,India,Port Donberg,East,Furniture,Sofa,Sofa Model 542,705.74,5,0.15,104.99
+ORD-1074,2024-11-05,2024-11-08,Standard Class,Jason Miller,Home Office,India,Port Rhondahaven,East,Technology,Printer,Printer Model 883,45.35,4,0.29,9.85
+ORD-1075,2024-10-22,2024-10-23,Second Class,Linda Bradshaw,Consumer,India,East Victoriatown,Central,Technology,Printer,Printer Model 750,767.85,3,0.14,138.44
+ORD-1076,2024-08-28,2024-08-31,Second Class,Julie Martin MD,Corporate,India,Deckermouth,Central,Office Supplies,Paper,Paper Model 395,420.18,6,0.2,93.09
+ORD-1077,2024-10-08,2024-10-09,Second Class,Cameron Dixon,Home Office,India,Duffyberg,East,Technology,Monitor,Monitor Model 773,465.73,6,0.08,34.08
+ORD-1078,2024-07-30,2024-07-31,Second Class,William Carroll,Consumer,India,Bradshawland,West,Technology,Monitor,Monitor Model 373,203.83,6,0.19,30.51
+ORD-1079,2024-05-27,2024-05-31,Standard Class,Anthony Johnson,Consumer,India,West Laurafurt,West,Technology,Phone,Phone Model 418,883.23,8,0.04,216.06
+ORD-1080,2024-10-09,2024-10-13,First Class,Sheila Mclaughlin,Corporate,India,East Jessica,South,Technology,Laptop,Laptop Model 621,111.35,2,0.14,8.18
+ORD-1081,2024-07-31,2024-08-07,Second Class,Miguel Gordon,Consumer,India,Smithberg,West,Technology,Printer,Printer Model 984,492.85,8,0.07,78.98
+ORD-1082,2024-07-31,2024-08-03,Standard Class,Sarah Newton,Corporate,India,Brianland,Central,Furniture,Bookcase,Bookcase Model 986,935.56,9,0.08,47.26
+ORD-1083,2024-10-02,2024-10-06,Second Class,Curtis Buckley,Consumer,India,South Christina,West,Furniture,Sofa,Sofa Model 685,358.22,9,0.23,44.94
+ORD-1084,2024-07-29,2024-07-30,Second Class,Kenneth Johnston,Home Office,India,Jasonland,West,Office Supplies,Binder,Binder Model 607,331.81,8,0.21,70.44
+ORD-1085,2024-09-14,2024-09-19,Standard Class,Christopher Martin,Corporate,India,Christopherton,East,Furniture,Table,Table Model 839,345.35,2,0.26,47.68
+ORD-1086,2024-12-01,2024-12-03,Standard Class,Amber Stone,Consumer,India,West Travisfurt,South,Furniture,Sofa,Sofa Model 972,93.33,5,0.1,17.6
+ORD-1087,2024-06-11,2024-06-17,First Class,Kerry Conley,Consumer,India,Ashleyside,South,Technology,Monitor,Monitor Model 332,724.34,8,0.26,41.42
+ORD-1088,2024-08-10,2024-08-11,First Class,Samuel Johnson,Consumer,India,Lawsonland,South,Technology,Laptop,Laptop Model 915,765.16,2,0.13,144.46
+ORD-1089,2024-07-02,2024-07-05,First Class,Melanie Calderon,Consumer,India,Gregoryview,West,Furniture,Bookcase,Bookcase Model 180,442.07,4,0.16,72.14
+ORD-1090,2024-11-13,2024-11-19,Second Class,Amber Jones,Corporate,India,Andrewhaven,South,Technology,Monitor,Monitor Model 782,256.01,10,0.04,36.41
+ORD-1091,2024-05-27,2024-06-02,Standard Class,Amanda Pearson,Corporate,India,East Emilyshire,Central,Furniture,Sofa,Sofa Model 806,555.67,2,0.13,66.19
+ORD-1092,2024-06-03,2024-06-05,Second Class,Kevin Williamson,Home Office,India,West Nicholasfurt,South,Office Supplies,Storage,Storage Model 816,999.39,8,0.03,126.2
+ORD-1093,2024-12-03,2024-12-07,First Class,Donald Chambers,Home Office,India,Maddoxbury,Central,Office Supplies,Paper,Paper Model 952,288.99,10,0.26,59.43
+ORD-1094,2024-11-06,2024-11-13,Standard Class,Ricky Dodson,Home Office,India,Port Danielle,West,Office Supplies,Binder,Binder Model 743,365.27,4,0.19,67.78
+ORD-1095,2024-06-07,2024-06-14,Second Class,Peter Arnold,Corporate,India,North John,Central,Furniture,Chair,Chair Model 279,452.01,10,0.11,34.48
+ORD-1096,2024-10-03,2024-10-06,Second Class,Denise Walker,Corporate,India,South Abigailstad,South,Furniture,Table,Table Model 923,540.24,5,0.25,54.78
+ORD-1097,2024-02-08,2024-02-10,Second Class,Joseph Sosa,Home Office,India,New Andrewberg,South,Furniture,Sofa,Sofa Model 192,759.07,4,0.26,147.9
+ORD-1098,2024-05-15,2024-05-20,Standard Class,Claudia Brown,Corporate,India,East Alexandra,South,Office Supplies,Paper,Paper Model 210,141.12,6,0.2,26.03
+ORD-1099,2024-08-29,2024-08-30,Standard Class,Shelley Thomas,Consumer,India,Lake Erin,Central,Technology,Phone,Phone Model 817,627.16,9,0.1,107.88
+ORD-1100,2024-02-29,2024-03-02,First Class,Joseph Mccoy,Consumer,India,West Alicia,West,Office Supplies,Storage,Storage Model 497,64.44,1,0.09,9.57
+ORD-1101,2024-12-09,2024-12-15,First Class,Alexander Love,Corporate,India,Schmittbury,East,Office Supplies,Pen,Pen Model 953,702.55,9,0.13,139.42
+ORD-1102,2024-05-23,2024-05-24,Second Class,Debra Carter,Consumer,India,East Ellenfurt,South,Office Supplies,Storage,Storage Model 657,696.48,4,0.13,167.23
+ORD-1103,2024-02-01,2024-02-05,First Class,Mary Garcia,Home Office,India,West Jasmin,West,Technology,Printer,Printer Model 757,290.36,2,0.28,62.38
+ORD-1104,2024-01-26,2024-02-02,Standard Class,Ronald Carlson,Consumer,India,North Derekborough,West,Technology,Laptop,Laptop Model 932,346.84,3,0.24,31.58
+ORD-1105,2024-03-16,2024-03-23,First Class,Tiffany Obrien,Home Office,India,Antonioberg,South,Furniture,Bookcase,Bookcase Model 917,902.52,1,0.08,222.75
+ORD-1106,2024-12-04,2024-12-11,Standard Class,Katelyn Taylor,Corporate,India,Lake Marie,East,Furniture,Chair,Chair Model 278,45.26,1,0.11,9.4
+ORD-1107,2024-03-05,2024-03-11,Second Class,Gabriella Booth,Home Office,India,Ryanmouth,East,Office Supplies,Paper,Paper Model 562,432.54,2,0.22,62.83
+ORD-1108,2024-11-10,2024-11-11,First Class,Wendy Guzman,Consumer,India,East Raymond,Central,Technology,Phone,Phone Model 967,732.7,9,0.09,130.91
+ORD-1109,2024-12-17,2024-12-18,Standard Class,Erik White,Consumer,India,Rogerston,East,Office Supplies,Storage,Storage Model 229,500.46,8,0.02,33.11
+ORD-1110,2024-07-14,2024-07-19,Standard Class,Teresa Rose,Consumer,India,Adamborough,West,Office Supplies,Pen,Pen Model 540,539.95,8,0.15,73.45
+ORD-1111,2024-07-30,2024-08-02,Second Class,Katie Hill,Corporate,India,Johnton,South,Office Supplies,Binder,Binder Model 483,830.87,7,0.12,57.34
+ORD-1112,2024-02-04,2024-02-05,Second Class,Clarence Thomas,Consumer,India,South James,East,Furniture,Sofa,Sofa Model 700,835.14,2,0.13,166.12
+ORD-1113,2024-12-09,2024-12-10,Second Class,Sheila Johnson,Home Office,India,West Ryan,South,Technology,Printer,Printer Model 460,422.59,7,0.26,82.07
+ORD-1114,2024-03-20,2024-03-26,First Class,Anthony Ellison,Corporate,India,East John,West,Furniture,Table,Table Model 926,492.55,2,0.11,79.43
+ORD-1115,2024-11-07,2024-11-13,Second Class,Daniel Mcclure,Corporate,India,Hernandezburgh,South,Office Supplies,Paper,Paper Model 106,832.87,5,0.01,87.16
+ORD-1116,2024-10-16,2024-10-22,First Class,Rhonda Ibarra,Home Office,India,Kristinachester,West,Furniture,Table,Table Model 485,412.77,3,0.22,100.87
+ORD-1117,2024-06-23,2024-06-25,First Class,Jill Bird,Consumer,India,West Charlesberg,West,Office Supplies,Storage,Storage Model 261,382.65,6,0.23,62.57
+ORD-1118,2024-12-11,2024-12-12,Second Class,Mary Payne,Consumer,India,Port Patricia,East,Technology,Laptop,Laptop Model 453,286.66,7,0.15,39.68
+ORD-1119,2024-05-25,2024-05-31,First Class,Mary Washington,Corporate,India,Lake Martin,East,Office Supplies,Paper,Paper Model 107,684.92,8,0.16,76.49
+ORD-1120,2024-04-18,2024-04-25,Second Class,Thomas Clayton,Home Office,India,East Victoriashire,Central,Furniture,Bookcase,Bookcase Model 279,154.49,5,0.09,11.43
+ORD-1121,2024-09-29,2024-10-05,First Class,Michelle Hall,Corporate,India,East Bryan,East,Furniture,Sofa,Sofa Model 546,245.51,9,0.25,51.86
+ORD-1122,2024-02-09,2024-02-16,Second Class,Amber Garcia,Corporate,India,West Kyleport,East,Furniture,Sofa,Sofa Model 514,326.8,7,0.17,62.71
+ORD-1123,2024-03-28,2024-04-04,First Class,Amber Stout,Corporate,India,Kylefurt,East,Furniture,Bookcase,Bookcase Model 349,948.66,8,0.25,221.94
+ORD-1124,2024-09-25,2024-09-26,First Class,Stephanie Williams,Consumer,India,Dawnstad,East,Office Supplies,Storage,Storage Model 643,407.85,5,0.22,38.47
+ORD-1125,2024-06-27,2024-06-30,First Class,Mikayla Brown,Consumer,India,North Sarahaven,West,Technology,Phone,Phone Model 878,732.83,3,0.07,58.11
+ORD-1126,2024-03-31,2024-04-07,Second Class,Charles Gross,Home Office,India,Curtisview,South,Technology,Laptop,Laptop Model 984,635.39,8,0.23,128.33
+ORD-1127,2024-03-18,2024-03-22,Standard Class,Melvin Hernandez,Consumer,India,Figueroaside,South,Technology,Printer,Printer Model 619,86.92,8,0.19,18.19
+ORD-1128,2024-08-24,2024-08-28,First Class,John Donaldson,Home Office,India,North Williambury,Central,Furniture,Bookcase,Bookcase Model 573,56.86,6,0.25,3.72
+ORD-1129,2024-08-18,2024-08-25,First Class,David Carpenter,Consumer,India,West Jessicaside,Central,Technology,Laptop,Laptop Model 205,580.22,4,0.1,84.2
+ORD-1130,2024-09-15,2024-09-21,Standard Class,Alexandra Davis,Home Office,India,Howardchester,West,Office Supplies,Paper,Paper Model 472,189.11,4,0.21,46.94
+ORD-1131,2024-07-17,2024-07-21,Second Class,Krystal Estes,Consumer,India,Burnsborough,South,Office Supplies,Pen,Pen Model 196,778.98,10,0.02,137.24
+ORD-1132,2024-05-25,2024-05-28,Standard Class,Lisa Roberts,Home Office,India,Justinburgh,West,Technology,Monitor,Monitor Model 458,729.26,10,0.26,85.08
+ORD-1133,2024-03-07,2024-03-12,Second Class,James Middleton,Consumer,India,Danielville,East,Office Supplies,Storage,Storage Model 761,714.66,2,0.09,89.57
+ORD-1134,2024-09-17,2024-09-20,Second Class,Mrs. Rebecca Davis,Consumer,India,Tylerville,West,Technology,Monitor,Monitor Model 240,37.87,5,0.05,3.52
+ORD-1135,2024-05-31,2024-06-07,Standard Class,Antonio Wolf,Consumer,India,Lake Alicia,South,Furniture,Chair,Chair Model 997,792.36,9,0.23,171.96
+ORD-1136,2024-11-01,2024-11-05,First Class,Natalie Nichols,Home Office,India,Williamborough,Central,Technology,Phone,Phone Model 144,171.17,3,0.25,34.96
+ORD-1137,2024-12-12,2024-12-18,Second Class,Kimberly Thompson,Consumer,India,Lake Meganmouth,West,Office Supplies,Pen,Pen Model 416,252.78,8,0.18,50.68
+ORD-1138,2024-07-07,2024-07-13,Second Class,Michelle Johnson,Home Office,India,New Tammy,Central,Office Supplies,Binder,Binder Model 265,948.19,8,0.14,100.84
+ORD-1139,2024-05-08,2024-05-09,Standard Class,Jose Booker,Consumer,India,West Cynthia,South,Furniture,Table,Table Model 185,648.36,6,0.17,45.72
+ORD-1140,2024-08-18,2024-08-23,Second Class,Kayla Bennett,Corporate,India,Lake Scottville,East,Furniture,Bookcase,Bookcase Model 524,164.4,7,0.03,38.16
+ORD-1141,2024-09-14,2024-09-17,First Class,Laura Jordan,Home Office,India,Gomezburgh,South,Furniture,Sofa,Sofa Model 910,251.06,2,0.11,13.97
+ORD-1142,2024-01-20,2024-01-23,Standard Class,Dylan Burns,Corporate,India,South Rachael,Central,Furniture,Table,Table Model 730,919.05,8,0.21,71.46
+ORD-1143,2024-01-10,2024-01-13,Standard Class,Sarah Shields,Corporate,India,East Adam,East,Furniture,Chair,Chair Model 894,231.34,3,0.16,45.21
+ORD-1144,2024-06-03,2024-06-04,First Class,Gina Chang,Consumer,India,West Danielshire,Central,Office Supplies,Binder,Binder Model 711,66.79,7,0.19,11.66
+ORD-1145,2024-11-19,2024-11-24,Second Class,Pamela Smith,Consumer,India,Jeffreymouth,Central,Technology,Laptop,Laptop Model 291,583.55,3,0.09,29.36
+ORD-1146,2024-09-25,2024-09-28,Standard Class,Lisa Murphy,Home Office,India,Brookeberg,East,Technology,Laptop,Laptop Model 499,86.33,9,0.16,17.89
+ORD-1147,2024-11-21,2024-11-25,First Class,Sharon Gray,Corporate,India,Port Codyland,West,Office Supplies,Paper,Paper Model 850,981.42,5,0.22,119.16
+ORD-1148,2024-10-24,2024-10-30,Standard Class,Andrea Moran,Consumer,India,West Veronica,Central,Technology,Laptop,Laptop Model 812,761.55,3,0.01,121.24
+ORD-1149,2024-03-10,2024-03-11,First Class,Joshua Parks,Consumer,India,North Emma,South,Office Supplies,Binder,Binder Model 417,721.72,8,0.01,65.18
+ORD-1150,2024-10-05,2024-10-09,First Class,Daniel Wall,Home Office,India,Greenside,South,Technology,Monitor,Monitor Model 379,268.25,4,0.09,59.67
+ORD-1151,2024-08-11,2024-08-15,Standard Class,Timothy Jacobs,Corporate,India,Sarahmouth,South,Furniture,Bookcase,Bookcase Model 916,748.44,7,0.1,65.39
+ORD-1152,2024-02-12,2024-02-18,Standard Class,Alicia Herrera,Corporate,India,Lake Jason,South,Technology,Printer,Printer Model 205,436.01,7,0.18,93.51
+ORD-1153,2024-12-04,2024-12-07,Second Class,Sheryl Smith,Corporate,India,Lake Paulland,Central,Furniture,Bookcase,Bookcase Model 143,320.37,10,0.22,26.7
+ORD-1154,2024-11-10,2024-11-14,Second Class,Timothy Reyes,Home Office,India,West Markchester,West,Technology,Printer,Printer Model 131,289.06,1,0.02,51.31
+ORD-1155,2024-01-18,2024-01-20,First Class,Chelsea Martinez,Home Office,India,East Justin,West,Furniture,Sofa,Sofa Model 795,85.89,6,0.11,20.6
+ORD-1156,2024-07-09,2024-07-13,Second Class,Kristi Cantrell,Home Office,India,Welchville,South,Office Supplies,Pen,Pen Model 355,767.82,10,0.04,94.74
+ORD-1157,2024-04-05,2024-04-09,Standard Class,Eric Ali,Corporate,India,Lake Dylanfurt,West,Furniture,Chair,Chair Model 726,527.39,9,0.04,108.11
+ORD-1158,2024-04-12,2024-04-13,Second Class,Meghan Richardson,Consumer,India,Melissahaven,South,Office Supplies,Storage,Storage Model 783,153.01,2,0.14,35.15
+ORD-1159,2024-10-08,2024-10-13,Standard Class,Scott Taylor,Home Office,India,West Randymouth,West,Office Supplies,Paper,Paper Model 912,304.56,5,0.26,58.59
+ORD-1160,2024-03-03,2024-03-05,Standard Class,Jacqueline Watson,Home Office,India,Jameschester,South,Office Supplies,Binder,Binder Model 578,796.22,4,0.24,44.0
+ORD-1161,2024-11-09,2024-11-10,Standard Class,Miguel Gibbs,Corporate,India,Lake Victoriaborough,Central,Technology,Phone,Phone Model 943,84.43,7,0.3,16.36
+ORD-1162,2024-03-05,2024-03-08,First Class,Mark Porter,Home Office,India,West Jessica,West,Technology,Laptop,Laptop Model 886,649.49,8,0.14,99.68
+ORD-1163,2024-09-14,2024-09-21,First Class,Melanie Jackson,Corporate,India,South Seanland,West,Furniture,Sofa,Sofa Model 454,74.3,2,0.16,8.23
+ORD-1164,2024-02-10,2024-02-13,Standard Class,Christina Richardson,Home Office,India,Bakerchester,East,Technology,Printer,Printer Model 614,212.38,9,0.08,37.17
+ORD-1165,2024-10-30,2024-11-04,Standard Class,Amy Benton,Consumer,India,Port Yvette,East,Technology,Phone,Phone Model 183,171.11,10,0.22,29.26
+ORD-1166,2024-11-29,2024-12-01,Standard Class,Lindsay Jones,Home Office,India,Woodville,South,Furniture,Bookcase,Bookcase Model 757,771.62,7,0.19,43.25
+ORD-1167,2024-05-05,2024-05-12,First Class,Kyle Crawford,Consumer,India,Johnsontown,Central,Office Supplies,Storage,Storage Model 525,811.2,7,0.09,52.4
+ORD-1168,2024-04-14,2024-04-17,Second Class,Matthew Hendrix,Corporate,India,Gilesbury,West,Office Supplies,Storage,Storage Model 878,614.53,6,0.26,69.97
+ORD-1169,2024-06-12,2024-06-14,First Class,Alan Macias,Corporate,India,New Jacquelinestad,Central,Office Supplies,Paper,Paper Model 984,477.14,5,0.13,37.3
+ORD-1170,2024-05-07,2024-05-14,First Class,Anthony Hunt,Consumer,India,Rossport,Central,Technology,Monitor,Monitor Model 627,904.26,6,0.28,175.63
+ORD-1171,2024-06-06,2024-06-10,First Class,Dustin Meyers,Home Office,India,South Walter,South,Office Supplies,Storage,Storage Model 149,42.71,7,0.15,10.39
+ORD-1172,2024-09-10,2024-09-15,First Class,Darrell Phelps,Corporate,India,Breannaton,West,Furniture,Bookcase,Bookcase Model 370,884.69,8,0.09,45.68
+ORD-1173,2024-07-25,2024-07-28,Standard Class,Matthew Park,Corporate,India,Jonesmouth,East,Technology,Printer,Printer Model 495,64.34,1,0.17,5.72
+ORD-1174,2024-10-08,2024-10-11,First Class,Jaime Palmer,Corporate,India,West Nancyfurt,South,Technology,Monitor,Monitor Model 913,828.81,10,0.2,61.13
+ORD-1175,2024-03-14,2024-03-16,First Class,Christopher Barnes,Home Office,India,South Stephanieland,South,Office Supplies,Pen,Pen Model 923,610.41,7,0.15,36.05
+ORD-1176,2024-03-17,2024-03-22,First Class,Elizabeth Olsen,Corporate,India,Williamsbury,South,Office Supplies,Storage,Storage Model 707,895.27,3,0.1,154.54
+ORD-1177,2024-12-28,2025-01-02,Second Class,Robert Wise,Home Office,India,North Zachary,South,Office Supplies,Storage,Storage Model 915,313.79,1,0.11,57.98
+ORD-1178,2024-11-01,2024-11-05,Standard Class,Kaitlyn Gillespie,Corporate,India,West Christinachester,West,Technology,Laptop,Laptop Model 636,280.22,10,0.17,54.44
+ORD-1179,2024-03-16,2024-03-23,First Class,John Miller,Consumer,India,Mccarthyburgh,Central,Technology,Monitor,Monitor Model 421,687.11,1,0.17,130.62
+ORD-1180,2024-07-30,2024-08-05,Standard Class,Erica Rogers,Home Office,India,Port Davidhaven,East,Office Supplies,Binder,Binder Model 822,219.81,9,0.23,51.46
+ORD-1181,2024-10-14,2024-10-17,First Class,Thomas Thomas,Corporate,India,Port David,South,Furniture,Table,Table Model 659,998.16,8,0.16,112.54
+ORD-1182,2024-11-08,2024-11-12,Second Class,Bonnie Lam,Corporate,India,Port Rebeccaburgh,West,Office Supplies,Pen,Pen Model 806,208.42,4,0.08,22.86
+ORD-1183,2024-06-11,2024-06-15,Standard Class,Lisa Mcmillan,Corporate,India,Timothymouth,Central,Technology,Monitor,Monitor Model 938,361.83,5,0.09,59.59
+ORD-1184,2024-05-28,2024-05-29,Second Class,Jason Smith,Home Office,India,Jameston,Central,Office Supplies,Binder,Binder Model 319,301.88,2,0.1,41.8
+ORD-1185,2024-10-14,2024-10-20,First Class,Edward Walters,Consumer,India,East Gabrieltown,West,Furniture,Bookcase,Bookcase Model 753,286.19,2,0.18,47.9
+ORD-1186,2024-02-21,2024-02-25,First Class,Stanley Morgan,Home Office,India,North Cheryl,West,Furniture,Chair,Chair Model 516,343.69,8,0.03,70.17
+ORD-1187,2024-09-01,2024-09-07,First Class,Philip Brooks,Home Office,India,Ambershire,West,Technology,Monitor,Monitor Model 647,215.47,5,0.1,38.61
+ORD-1188,2024-03-30,2024-04-03,Second Class,Andrew Robinson,Corporate,India,Luisburgh,West,Technology,Laptop,Laptop Model 866,884.6,3,0.28,50.66
+ORD-1189,2024-01-05,2024-01-08,Second Class,Amanda Bartlett,Home Office,India,Michaeltown,Central,Office Supplies,Paper,Paper Model 237,576.6,2,0.28,67.47
+ORD-1190,2024-05-19,2024-05-21,Second Class,Casey White,Home Office,India,Amandaview,West,Technology,Monitor,Monitor Model 114,812.64,6,0.05,115.22
+ORD-1191,2024-05-31,2024-06-05,Second Class,Suzanne Simpson,Corporate,India,West Krystalbury,South,Technology,Printer,Printer Model 188,680.91,4,0.05,150.64
+ORD-1192,2024-04-04,2024-04-06,Second Class,David Hayes,Corporate,India,Nicolebury,South,Office Supplies,Paper,Paper Model 409,487.91,4,0.0,61.83
+ORD-1193,2024-05-13,2024-05-19,Second Class,Noah Woods,Consumer,India,New Stevenmouth,Central,Technology,Laptop,Laptop Model 802,372.36,4,0.02,27.42
+ORD-1194,2024-12-19,2024-12-20,First Class,Anthony Collins,Corporate,India,West Danielle,West,Technology,Printer,Printer Model 565,645.94,5,0.11,60.83
+ORD-1195,2024-07-31,2024-08-06,First Class,Amber Fernandez,Consumer,India,Lake Shirley,East,Technology,Printer,Printer Model 638,558.25,8,0.23,117.46
+ORD-1196,2024-02-09,2024-02-14,Standard Class,Jennifer Wise,Consumer,India,Scottborough,West,Office Supplies,Pen,Pen Model 435,129.96,9,0.27,11.75
+ORD-1197,2024-02-29,2024-03-06,Second Class,Eric Martinez,Consumer,India,Brettfurt,Central,Technology,Monitor,Monitor Model 235,221.29,10,0.15,50.85
+ORD-1198,2024-08-21,2024-08-26,First Class,Brandy Green,Corporate,India,Staffordshire,South,Technology,Monitor,Monitor Model 936,76.58,8,0.2,8.55
+ORD-1199,2024-10-23,2024-10-24,First Class,Austin Watson,Consumer,India,Lake Roberto,Central,Furniture,Table,Table Model 132,64.38,6,0.21,10.19
+ORD-1200,2024-04-02,2024-04-09,Second Class,Jordan Moore,Corporate,India,Harrishaven,Central,Office Supplies,Storage,Storage Model 182,152.72,7,0.11,34.86
